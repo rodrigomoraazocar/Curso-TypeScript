@@ -1,0 +1,2 @@
+# Ignorar la carpeta de dependencias (puede variar según el administrador de paquetes que uses)
+/node_modules

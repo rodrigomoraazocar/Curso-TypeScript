@@ -1,0 +1,27 @@
+===============
+TypeScript
+===============
+
+
+1- crear carpeta  ts-demo
+
+2- ir a carpeta via consola: cd ts-demo
+
+3- ejecutar desde terminal (powershell) comando: npm init y posteriormente llenar los campos que se van a ir solicitando.
+   todos estos campos se podrán ir observado en el archivo: package.json
+
+4- ejecutar el comando: npm install  --save-dev @types/node nodemon ts-node  typescript
+    este comando instalará las 3 dependencias necesarias para desarrrollador.
+
+   Se creará la carpeta "node_modules", que es donde estarán mis dependencias.
+   En el archivo package.json, estará la info de mis dependencias.
+
+   5- npx tsc --init --rootDir build --esModuleInterop true --resolveJsonModule --lib es6 --module commonjs --allowjs true --noImplicitAny true
+
+   
+
+   ==========================
+   EXTENSIONES Visual Code
+   ==========================
+
+   Material Icon Theme 

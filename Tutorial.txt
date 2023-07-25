@@ -10,7 +10,7 @@ TypeScript
 3- ejecutar desde terminal (powershell) comando: npm init y posteriormente llenar los campos que se van a ir solicitando.
    todos estos campos se podrán ir observado en el archivo: package.json
 
-4- ejecutar el comando: npm install  --save-dev @types/node nodemon ts-node  typescript
+4- ejecutar el comando: npm install  --save-dev @types/node nodemon ts-node typescript
     este comando instalará las 3 dependencias necesarias para desarrrollador.
 
    Se creará la carpeta "node_modules", que es donde estarán mis dependencias.
